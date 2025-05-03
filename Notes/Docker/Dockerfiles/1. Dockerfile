@@ -1,0 +1,5 @@
+FROM ubuntu:22.04
+WORKDIR /home/Phani
+RUN touch f1
+RUN echo “Welcome to the container”>f1
+CMD [“cat”,”/home/Phani/f1”]
