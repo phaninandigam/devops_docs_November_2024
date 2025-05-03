@@ -2,7 +2,9 @@
 2. Shell Scripting
 3. Git
 4. Jenkins
-5. Git Actions
-6. Ansible
+5. Ansible
+6. Git Actions
 7. Python
 8. AWS 
+9. Terraform
+10. Docker
