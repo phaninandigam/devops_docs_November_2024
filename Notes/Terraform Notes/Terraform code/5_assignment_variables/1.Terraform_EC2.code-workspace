@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "../1.Terraform_EC2"
+		},
+		{
+			"path": "../2.Terrform_SG_KEY_PAIR"
+		},
+		{
+			"path": "../3.Terraform_Variables_Output_input"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../Testing_code"
+		}
+	],
+	"settings": {}
+}

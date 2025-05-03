@@ -1,0 +1,23 @@
+{
+	"folders": [
+		{
+			"path": "../Testing_code"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../4. Assignment_variables"
+		},
+		{
+			"path": "../7. Assignment Modules"
+		},
+		{
+			"path": "../3.Terraform_Variables_Output_input"
+		},
+		{
+			"path": "../../../../Downloads/ec2_creation"
+		}
+	],
+	"settings": {}
+}

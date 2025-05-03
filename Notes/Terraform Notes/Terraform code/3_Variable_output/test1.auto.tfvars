@@ -1,0 +1,1 @@
+type_value = "t2.medium"
