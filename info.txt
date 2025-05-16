@@ -1,6 +1,4 @@
-GitHub
-username phaninandigam
-password: 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
+
 
 
 
@@ -15,24 +13,15 @@ PublicIP:8080
 Url: http://13.233.233.15:8080/
 
 
-Jenkins app on gmail
-Jenkins
-jpgc seew gzly qdte
 
 
 jenkins_new
-rvmq wizn jkta zkvt
+
 
 
 To update the Jenkins IP address
 vi jenkins.model.JenkinsLocationConfiguration.xml
 
 
-Sonarqube
-Jenkins
-8ffc62130f56590d32f85327341ce3f0e8e9db59
 
 
-Github
-username phaninandigam
-password: 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
